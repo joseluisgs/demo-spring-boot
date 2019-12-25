@@ -1,6 +1,6 @@
 # demo-spring-boot
 
-Un ejemplo de SpringBoot sencillo
+Un ejemplo de SpringBoot sencillo en Intell iJ IDEA
 Prueba:
 http://localhost:8080/
 Y luego:
